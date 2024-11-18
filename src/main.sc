@@ -152,5 +152,5 @@ theme: /
             ];
             var randomAnswer = answers[$reactions.random(answers.length)];
             $reactions.answer(randomAnswer);
-        });
+            });
         EndSession: 
