@@ -31,6 +31,16 @@
     <test-case>        
         <q>привет</q>
         <a state = "/Start"/>
+        <q>ага</q>
+        <a state = "/AskCity"/>
+        <q>пока</q>
+        <a state="/End"/>
+        <a state="/End"/>
+    </test-case>
+    
+    <test-case>        
+        <q>привет</q>
+        <a state = "/Start"/>
         <q>не</q>
         <a state="/End"/>
         <a state="/End"/>

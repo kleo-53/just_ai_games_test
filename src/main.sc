@@ -30,27 +30,28 @@ theme: /
         q!: $regex</start>
         script:
             $jsapi.startSession();
-                $session.correctAnswers = 0;
-                $session.totalQuestions = 0;
+            $session.correctAnswers = 0;
+            $session.totalQuestions = 0;
         a: Добрый день! Давайте сыграем в игру «Назови столицу». Я буду называть страну, а вы попробуйте отгадать её столицу. Готовы начать?
         intent: /sys/aimylogic/ru/agreement || toState = "/AskCity"
         intent: /sys/aimylogic/ru/negation || toState = "/End"
         intent: /Продолжить || toState = "/AskCity"
         intent: /sys/aimylogic/ru/uncertainty || toState = "/AskCity"
         intent: /Начать || toState = "/AskCity"
+        intent: /sys/aimylogic/ru/parting || toState = "/End"
         event: noMatch || toState = "/NoMatch"
 
     state: AskCity || sessionResult = "Угадай столицу", sessionResultColor = "#418614"
         script:
             var countryIds = Object.keys($Geography);
-            var randomIndex = Math.floor(Math.random() * countryIds.length);
-            var randomCountryId = countryIds[randomIndex];
-            $session.currentCountry = $Geography[randomCountryId].value;
-            if ($session.currentCountry.genCountry != "") {
-                $session.countryToAsk = $session.currentCountry.genCountry 
-            } else {
-                $session.countryToAsk = $session.currentCountry.country 
-            }
+                var randomIndex = Math.floor(Math.random() * countryIds.length);
+                var randomCountryId = countryIds[randomIndex];
+                $session.currentCountry = $Geography[randomCountryId].value;
+                if ($session.currentCountry.genCountry != "") {
+            $session.countryToAsk = $session.currentCountry.genCountry 
+                } else {
+            $session.countryToAsk = $session.currentCountry.country 
+                }
         a: Какой город является столицей {{ $session.countryToAsk }}? (Подсказка: {{ $session.currentCountry.name }})
         script:
             $session.totalQuestions++;
@@ -58,6 +59,7 @@ theme: /
         intent: /Хватит || toState = "/End"
         intent: /не знаю такой город || toState = "/DontKnow"
         intent: /sys/aimylogic/ru/negation || toState = "/End"
+        intent: /sys/aimylogic/ru/parting || toState = "/End"
         event: noMatch || toState = "/DontKnow"
 
     state: NoMatch || sessionResult = "Неизвестная фраза", sessionResultColor = "#143AD1"
@@ -67,6 +69,7 @@ theme: /
         intent: /не знаю такой город || toState = "/DontKnow"
         intent: /sys/aimylogic/ru/uncertainty || toState = "/CheckAnswer"
         intent: /Продолжить || toState = "/AskCity"
+        intent: /sys/aimylogic/ru/parting || toState = "/End"
         event: noMatch || toState = "/End"
 
     state: reset || sessionResult = "Сбросить прогресс", sessionResultColor = "#143AD1"
@@ -121,21 +124,22 @@ theme: /
 
     state: FactAndNext || sessionResult = "Пишем факт", sessionResultColor = "#15952F"
         script:
-            if ($session.totalQuestions % 2 === 0) {
-            var userMessage = "Расскажи короткий интересный факт о городе " + $session.currentCountry.name + " или стране " + $session.countryToAsk;
-            try {
-                var assistantResponse = $gpt.createChatCompletion([{ "role": "user", "content": userMessage }]);
-                var response = assistantResponse.choices[0].message.content;
-                $reactions.answer(response);
-            } catch (error) {
-            }
+            if ($session.totalQuestions % 5 === 0) {
+                var userMessage = "Расскажи короткий интересный факт о городе " + $session.currentCountry.name + " или стране " + $session.countryToAsk;
+                try {
+            var assistantResponse = $gpt.createChatCompletion([{ "role": "user", "content": userMessage }]);
+            var response = assistantResponse.choices[0].message.content;
+            $reactions.answer(response);
+                } catch (error) {
                 }
+            }
         a: Играем дальше?
         intent: /sys/aimylogic/ru/agreement || toState = "/AskCity"
         intent: /sys/aimylogic/ru/negation || toState = "/End"
         intent: /sys/aimylogic/ru/uncertainty || toState = "/AskCity"
         intent: /Хватит || toState = "/End"
         intent: /Продолжить || toState = "/AskCity"
+        intent: /sys/aimylogic/ru/parting || toState = "/End"
         event: noMatch || toState = "/NoMatch"
 
     # state: OnError
