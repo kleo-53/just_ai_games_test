@@ -12,8 +12,7 @@ require: common.js
 #     module = sys.zb-common
 
 # Импорт выше не работал, пришлось добавлять напрямую 
-require: where/geography-ru.csv
-    module = sys.zb-common
+require: geography-ru.csv
     name = Geography
     var = $Geography
 

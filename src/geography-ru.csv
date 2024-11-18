@@ -1,0 +1,192 @@
+1;Абу-Даби,Абу Даби;{"name":"Абу-Даби", "country":"Объединённые Арабские Эмираты", "genCountry":"Объединённых Арабских Эмиратов", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+2;Абуджа;{"name":"Абуджа", "country":"Нигерия", "genCountry":"Нигерии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+3;Аддис-Абеба,Аддис Абеба;{"name":"Аддис-Абеба", "country":"Эфиопия", "genCountry":"Эфиопии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+4;Аккра;{"name":"Аккра", "country":"Гана", "genCountry":"Ганы", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+5;Алжир;{"name":"Алжир", "country":"Алжир", "genCountry":"Алжира", "continent":"Африка", "duplicateName" : "true", "facts":[], "complexity":"3"}
+6;Амман;{"name":"Амман", "country":"Иордания", "genCountry":"Иордании", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+7;Амстердам;{"name":"Амстердам", "country":"Нидерланды", "genCountry":"Нидерландов", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["В Амстердаме большинство жителей города передвигаются на велосипеде.", "В Амстердаме есть кошачий корабль, на котором живут бездомные животные."], "complexity":"1"}
+8;Андорра-ла-Велья, андорра ла велья;{"name":"Андорра-ла-Велья", "country":"Андорра", "genCountry":"Андорры", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"4"}
+9;Анкара;{"name":"Анкара", "country":"Турция", "genCountry":"Турции", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+10;Антананариву;{"name":"Антананариву", "country":"Мадагаскар", "genCountry":"Мадагаскара", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+11;Апиа;{"name":"Апиа", "country":"Самоа", "genCountry":"Самоа", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+12;Асмэра;{"name":"Асмэра", "country":"Эритрея", "genCountry":"Эритреи", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+13;Астана,Нур-Султан,Нурсултан,Нур Султан;{"name":"Астана", "country":"Казахстан", "genCountry":"Казахстана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"2"}
+14;Асунсьон;{"name":"Асунсьон", "country":"Парагвай", "genCountry":"Парагвая", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+15;Афины;{"name":"Афины", "country":"Греция", "genCountry":"Греции", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Именно Афины считаются родиной театра."], "complexity":"1"}
+16;Ашхабад;{"name":"Ашхабад", "country":"Туркмения", "genCountry":"Туркмении", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+17;Багдад;{"name":"Багдад", "country":"Ирак", "genCountry":"Ирака", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+18;Баку;{"name":"Баку", "country":"Азербайджан", "genCountry":"Азербайджана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+19;Бамако;{"name":"Бамако", "country":"Мали", "genCountry":"Мали", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+20;Банги;{"name":"Банги", "country":"Центральноафриканская Республика", "genCountry":"Центральноафриканской Республики", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+21;Бангкок,банков;{"name":"Бангкок", "country":"Таиланд", "genCountry":"Таиланда", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+22;Бандар-Сери-Бегаван;{"name":"Бандар-Сери-Бегаван", "country":"Бруней", "genCountry":"Брунея", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+23;Банжул;{"name":"Банжул", "country":"Гамбия", "genCountry":"Гамбии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+24;Бастер;{"name":"Бастер", "country":"Сент-Китс и Невис", "genCountry":"Сент-Китса и Невиса", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+25;Бейрут;{"name":"Бейрут", "country":"Ливан", "genCountry":"Ливана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+26;Белград;{"name":"Белград", "country":"Сербия", "genCountry":"Сербии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+27;Бельмопан;{"name":"Бельмопан", "country":"Белиз", "genCountry":"Белиза", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+28;Берлин;{"name":"Берлин", "country":"Германия", "genCountry":"Германии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["В Берлине находится самый большой дом шоколада."], "complexity":"1"}
+29;Берн;{"name":"Берн", "country":"Швейцария", "genCountry":"Швейцарии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Город Берн получил свое название в честь медведя."], "complexity":"2"}
+30;Бисау,биссау;{"name":"Бисау", "country":"Гвинея-Бисау", "genCountry":"Гвинея-Бисау", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+31;Бишкек;{"name":"Бишкек", "country":"Киргизия", "genCountry":"Киргизии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+32;Богота;{"name":"Богота", "country":"Колумбия", "genCountry":"Колумбии", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+33;Браззавиль;{"name":"Браззавиль", "country":"Республика Конго", "genCountry":"Республики Конго", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+34;Бразилиа;{"name":"Бразилиа", "country":"Бразилия", "genCountry":"Бразилии", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"2"}
+35;Братислава;{"name":"Братислава", "country":"Словакия", "genCountry":"Словакии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+36;Бриджтаун;{"name":"Бриджтаун", "country":"Барбадос", "genCountry":"Барбадоса", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+37;Брюссель;{"name":"Брюссель", "country":"Бельгия", "genCountry":"Бельгии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Считается, что именно в Брюсселе была придумана картошка фри."], "complexity":"1"}
+38;Будапешт;{"name":"Будапешт", "country":"Венгрия", "genCountry":"Венгрии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+39;Бужумбура;{"name":"Бужумбура", "country":"Бурунди", "genCountry":"Бурунди", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+40;Бухарест;{"name":"Бухарест", "country":"Румыния", "genCountry":"Румынии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+41;Буэнос-Айрес, буэнос айрес, буэнос аирес, буэнос-аирес;{"name":"Буэнос-Айрес", "country":"Аргентина", "genCountry":"Аргентины", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"2"}
+42;Вадуц;{"name":"Вадуц", "country":"Лихтенштейн", "genCountry":"Лихтенштейна", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"4"}
+43;Валлетта;{"name":"Валлетта", "country":"Мальта", "genCountry":"Мальты", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"4"}
+44;Варшава;{"name":"Варшава", "country":"Польша", "genCountry":"Польши", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Именно в Варшаве находится самый узкий дом в мире - всего сто двадцать два сантиметра в ширину."], "complexity":"1"}
+45;Вашингтон;{"name":"Вашингтон", "country":"Соединённые Штаты Америки", "genCountry":"Соединённых Штатов Америки", "continent":"Северная Америка", "duplicateName" : "false", "facts":["Именно в Вашингтоне по неизвестным причинам запрещены леденцы на палочке.", "Именно в Вашингтоне находится Белый дом, где жили и работали все президенты Соединенных Штатов Америки."], "complexity":"1"}
+46;Веллингтон;{"name":"Веллингтон", "country":"Новая Зеландия", "genCountry":"Новой Зеландии", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"4"}
+47;Вена;{"name":"Вена", "country":"Австрия", "genCountry":"Австрии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["В Вене выпускается самая старая газета в мире.", "В Вене был впервые испечен круассан.", "В Вене находится старейший в мире зоопарк."], "complexity":"1"}
+48;Виктория;{"name":"Виктория", "country":"Сейшельские Острова", "genCountry":"Сейшельских Островов", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+49;Вильнюс;{"name":"Вильнюс", "country":"Литва", "genCountry":"Литвы", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+50;Виндхук;{"name":"Виндхук", "country":"Намибия", "genCountry":"Намибии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+51;Вьентьян;{"name":"Вьентьян", "country":"Лаос", "genCountry":"Лаоса", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+52;Габороне;{"name":"Габороне", "country":"Ботсвана", "genCountry":"Ботсваны", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+53;Гавана;{"name":"Гавана", "country":"Куба", "genCountry":"Кубы", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"3"}
+54;Гватемала;{"name":"Гватемала", "country":"Гватемала", "genCountry":"Гватемалы", "continent":"Северная Америка", "duplicateName" : "true", "facts":[], "complexity":"4"}
+55;Дакар;{"name":"Дакар", "country":"Сенегал", "genCountry":"Сенегала", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+56;Дакка;{"name":"Дакка", "country":"Бангладеш", "genCountry":"Бангладеша", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+57;Дамаск;{"name":"Дамаск", "country":"Сирия", "genCountry":"Сирии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":["В Дамаске впервые на планете научились изготовлять сталь.", "Дамаск - старейшая столица мира, этому городу насчитывается более четырех с половиной тысяч лет."], "complexity":"3"}
+58;Джакарта;{"name":"Джакарта", "country":"Индонезия", "genCountry":"Индонезии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+59;Джибути;{"name":"Джибути", "country":"Джибути", "genCountry":"Джибути", "continent":"Африка", "duplicateName" : "true", "facts":[], "complexity":"5"}
+60;Джорджтаун;{"name":"Джорджтаун", "country":"Гайана", "genCountry":"Гайаны", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+61;Джуба;{"name":"Джуба", "country":"Южный Судан", "genCountry":"Южного Судана", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+62;Дили;{"name":"Дили", "country":"Восточный Тимор", "genCountry":"Восточного Тимора", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+63;Додома;{"name":"Додома", "country":"Танзания", "genCountry":"Танзании", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+64;Доха;{"name":"Доха", "country":"Катар", "genCountry":"Катара", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+65;Дублин;{"name":"Дублин", "country":"Ирландия", "genCountry":"Ирландии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+66;Душанбе;{"name":"Душанбе", "country":"Таджикистан", "genCountry":"Таджикистана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":["Город Душанбе образовался на месте базара, который устраивался каждый понедельник", "Cлово Душанбе в дословном переводе с таджикского означает понедельник."], "complexity":"3"}
+67;Ереван;{"name":"Ереван", "country":"Армения", "genCountry":"Армении", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+68;Загреб;{"name":"Загреб", "country":"Хорватия", "genCountry":"Хорватии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+69;Южная Тарава;{"name":"Южная Тарава", "country":"Кирибати", "genCountry":"Кирибати", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+70;Ямусукро;{"name":"Ямусукро", "country":"Кот-дИвуар", "genCountry":"Кот-дИвуара", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+71;Исламабад;{"name":"Исламабад", "country":"Пакистан", "genCountry":"Пакистана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+72;Кабул;{"name":"Кабул", "country":"Афганистан", "genCountry":"Афганистана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+73;Каир;{"name":"Каир", "country":"Египет", "genCountry":"Египта", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"3"}
+74;Кампала;{"name":"Кампала", "country":"Уганда", "genCountry":"Уганды", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+75;Канберра;{"name":"Канберра", "country":"Австралия", "genCountry":"Австралии", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":["В городе Канберра есть весьма необычный отель, где можно пожить бок-о-бок с дикими зверями."], "complexity":"3"}
+76;Каракас;{"name":"Каракас", "country":"Венесуэла", "genCountry":"Венесуэлы", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+77;Кастри;{"name":"Кастри", "country":"Сент-Люсия", "genCountry":"Сент-Люсии", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+78;Катманду;{"name":"Катманду", "country":"Непал", "genCountry":"Непала", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+79;Кигали;{"name":"Кигали", "country":"Руанда", "genCountry":"Руанды", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+80;Киев;{"name":"Киев", "country":"Украина", "genCountry":"Украины", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Считается, что в Киеве самая глубокая станция метро в мире, которая называется Арсенальная. "], "complexity":"1"}
+81;Кингстаун;{"name":"Кингстаун", "country":"Сент-Винсент и Гренадины", "genCountry":"Сент-Винсента и Гренадинов", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+82;Кингстон;{"name":"Кингстон", "country":"Ямайка", "genCountry":"Ямайки", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+83;Киншаса;{"name":"Киншаса", "country":"Демократическая Республика Конго", "genCountry":"Демократической Республики Конго", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+84;Кито;{"name":"Кито", "country":"Эквадор", "genCountry":"Эквадора", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+85;Кишинёв;{"name":"Кишинёв", "country":"Молдавия", "genCountry":"Молдавии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+86;Конакри;{"name":"Конакри", "country":"Гвинея", "genCountry":"Гвинеи", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+87;Копенгаген;{"name":"Копенгаген", "country":"Дания", "genCountry":"Дании", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["В Копенгагене установлен памятник Русалочке."], "complexity":"1"}
+88;Куала-Лумпур.Куала Лумпур;{"name":"Куала-Лумпур", "country":"Малайзия", "genCountry":"Малайзии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+89;Либревиль;{"name":"Либревиль", "country":"Габон", "genCountry":"Габона", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+90;Лилонгве;{"name":"Лилонгве", "country":"Малави", "genCountry":"Малави", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+91;Лима;{"name":"Лима", "country":"Перу", "genCountry":"Перу", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+92;Лиссабон;{"name":"Лиссабон", "country":"Португалия", "genCountry":"Португалии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+93;Ломе;{"name":"Ломе", "country":"Того", "genCountry":"Того", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+94;Лондон;{"name":"Лондон", "country":"Великобритания", "genCountry":"Великобритании", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Именно в Лондоне открыли первое метро.", "Именно в Лондоне был открыт первый зоопарк."], "complexity":"1"}
+95;Луанда;{"name":"Луанда", "country":"Ангола", "genCountry":"Анголы", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+96;Лусака;{"name":"Лусака", "country":"Замбия", "genCountry":"Замбии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+97;Любляна;{"name":"Любляна", "country":"Словения", "genCountry":"Словении", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+98;Люксембург;{"name":"Люксембург", "country":"Люксембург", "genCountry":"Люксембурга", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "true", "facts":[], "complexity":"3"}
+99;Маджуро;{"name":"Маджуро", "country":"Маршалловы Острова", "genCountry":"Маршалловых Островов", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+100;Мадрид;{"name":"Мадрид", "country":"Испания", "genCountry":"Испании", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["В Мадриде каждое воскресенье с марта по октябрь проходят бои быков."], "complexity":"1"}
+101;Малабо;{"name":"Малабо", "country":"Экваториальная Гвинея", "genCountry":"Экваториальной Гвинеи", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+102;Мале;{"name":"Мале", "country":"Мальдивские Острова", "genCountry":"Мальдивских Островов", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+103;Манагуа;{"name":"Манагуа", "country":"Никарагуа", "genCountry":"Никарагуа", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+104;Манама;{"name":"Манама", "country":"Бахрейн", "genCountry":"Бахрейна", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+105;Манила;{"name":"Манила", "country":"Филиппины", "genCountry":"Филиппинов", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+106;Мапуту;{"name":"Мапуту", "country":"Мозамбик", "genCountry":"Мозамбика", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+107;Масеру;{"name":"Масеру", "country":"Лесото", "genCountry":"Лесото", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+108;Маскат;{"name":"Маскат", "country":"Оман", "genCountry":"Омана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+109;Мбабане;{"name":"Мбабане", "country":"Свазиленд", "genCountry":"Свазиленда", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+110;Мехико;{"name":"Мехико", "country":"Мексика", "genCountry":"Мексики", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"2"}
+111;Минск;{"name":"Минск", "country":"Белоруссия", "genCountry":"Белоруссии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+112;Могадишо;{"name":"Могадишо", "country":"Сомали", "genCountry":"Сомали", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+113;Монако;{"name":"Монако", "country":"Монако", "genCountry":"Монако", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "true", "facts":[], "complexity":"2"}
+114;Монровия;{"name":"Монровия", "country":"Либерия", "genCountry":"Либерии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+115;Монтевидео;{"name":"Монтевидео", "country":"Уругвай", "genCountry":"Уругвая", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+116;Морони;{"name":"Морони", "country":"Коморские Острова", "genCountry":"Коморских Островов", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+117;Москва;{"name":"Москва", "country":"Россия", "genCountry":"России", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+118;Найроби;{"name":"Найроби", "country":"Кения", "genCountry":"Кении", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+119;Нассау;{"name":"Нассау", "country":"Багамские Острова", "genCountry":"Багамских Островов", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+120;Нгерулмуд;{"name":"Нгерулмуд", "country":"Палау", "genCountry":"Палау", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+121;Нджамена;{"name":"Нджамена", "country":"Чад", "genCountry":"Чада", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+122;Нейпьидо;{"name":"Нейпьидо", "country":"Мьянма", "genCountry":"Мьянмы", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+123;Ниамей;{"name":"Ниамей", "country":"Нигер", "genCountry":"Нигера", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+124;Никосия;{"name":"Никосия", "country":"Кипр", "genCountry":"Кипра", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+125;Нуакшот;{"name":"Нуакшот", "country":"Мавритания", "genCountry":"Мавритании", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+126;Нукуалофа;{"name":"Нукуалофа", "country":"Тонга", "genCountry":"Тонги", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+127;Нью-Дели,Нью Дели;{"name":"Нью-Дели", "country":"Индия", "genCountry":"Индии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"2"}
+128;Осло;{"name":"Осло", "country":"Норвегия", "genCountry":"Норвегии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+129;Оттава;{"name":"Оттава", "country":"Канада", "genCountry":"Канады", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"2"}
+130;Паликир;{"name":"Паликир", "country":"Федеративные Штаты Микронезии", "genCountry":"Федеративных Штатов Микронезии", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+131;Панама;{"name":"Панама", "country":"Панама", "genCountry":"Панамы", "continent":"Северная Америка", "duplicateName" : "true", "facts":[], "complexity":"3"}
+132;Парамарибо;{"name":"Парамарибо", "country":"Суринам", "genCountry":"Суринама", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+133;Париж;{"name":"Париж", "country":"Франция", "genCountry":"Франции", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+134;Пекин;{"name":"Пекин", "country":"Китай", "genCountry":"Китая", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"1"}
+135;Пномпень;{"name":"Пномпень", "country":"Камбоджа", "genCountry":"Камбоджи", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+136;Подгорица;{"name":"Подгорица", "country":"Черногория", "genCountry":"Черногории", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+137;Порт-Вила,Порт Вила;{"name":"Порт-Вила", "country":"Вануату", "genCountry":"Вануату", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+138;Порт-Луи,Порт Луи;{"name":"Порт-Луи", "country":"Маврикий", "genCountry":"Маврикия", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+139;Порт-Морсби,Порт Морсби;{"name":"Порт-Морсби", "country":"Папуа - Новая Гвинея", "genCountry":"Папуа - Новой Гвинеи", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+140;Порт-о-Пренс,Порт о Пренс;{"name":"Порт-о-Пренс", "country":"Гаити", "genCountry":"Гаити", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+141;Порт-оф-Спейн,Порт оф Спейн;{"name":"Порт-оф-Спейн", "country":"Тринидад и Тобаго", "genCountry":"Тринидад и Тобаго", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+142;Порто-Ново,Порто Ново;{"name":"Порто-Ново", "country":"Бенин", "genCountry":"Бенина", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+143;Прага;{"name":"Прага", "country":"Чехия", "genCountry":"Чехии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+144;Прая;{"name":"Прая", "country":"Кабо-Верде", "genCountry":"Кабо-Верде", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+145;Претория;{"name":"Претория", "country":"Южно-Африканская Республика", "genCountry":"Южно-Африканской Республики", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+146;Пхеньян;{"name":"Пхеньян", "country":"Корейская Народно-Демократическая Республика", "genCountry":"Корейской Народно-Демократической Республики", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+147;Рабат;{"name":"Рабат", "country":"Марокко", "genCountry":"Марокко", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+148;Рейкьявик;{"name":"Рейкьявик", "country":"Исландия", "genCountry":"Исландии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+149;Рига;{"name":"Рига", "country":"Латвия", "genCountry":"Латвии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["Первая в мире рождественская елка была установлена именно в Риге."], "complexity":"2"}
+150;Рим;{"name":"Рим", "country":"Италия", "genCountry":"Италии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+151;Розо;{"name":"Розо", "country":"Доминика", "genCountry":"Доминики", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+152;Сан-Марино,Сан Марино,Самарина;{"name":"Сан-Марино", "country":"Сан-Марино", "genCountry":"Сан-Марино", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "true", "facts":[], "complexity":"3"}
+153;Сан-Сальвадор,Сан Сальвадор;{"name":"Сан-Сальвадор", "country":"Сальвадор", "genCountry":"Сальвадора", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+154;Сан-Томе,Сан Томе;{"name":"Сан-Томе", "country":"Сан-Томе и Принсипи", "genCountry":"Сан-Томе и Принсипи", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+155;Сан-Хосе,Сан Хосе;{"name":"Сан-Хосе", "country":"Коста-Рика", "genCountry":"Коста-Рика", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+156;Сана;{"name":"Сана", "country":"Йемен", "genCountry":"Йемена", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+157;Санто-Доминго,Санто Доминго;{"name":"Санто-Доминго", "country":"Доминиканская Республика", "genCountry":"Доминиканской Республики", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+158;Сантьяго;{"name":"Сантьяго", "country":"Чили", "genCountry":"Чили", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+159;Сараево;{"name":"Сараево", "country":"Босния и Герцеговина", "genCountry":"Боснии и Герцеговины", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"3"}
+160;Сент-Джонс,Сент Джонс;{"name":"Сент-Джонс", "country":"Антигуа и Барбуда", "genCountry":"Антигуа и Барбуда", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+161;Сент-Джорджес,Сент Джорджес;{"name":"Сент-Джорджес", "country":"Гренада", "genCountry":"Гренады", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+162;Сеул;{"name":"Сеул", "country":"Республика Корея", "genCountry":"Республики Корея", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":["В Сеуле находится самый длинный мост-фонтан в мире.", "В Сеуле находится самый длинный метрополитен в мир."], "complexity":"2"}
+163;Сингапур;{"name":"Сингапур", "country":"Сингапур", "genCountry":"Сингапура", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "true", "facts":["Символом Сингапура является рыба с головой льва."], "complexity":"4"}
+164;Скопье;{"name":"Скопье", "country":"Македония", "genCountry":"Македонии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"4"}
+165;София;{"name":"София", "country":"Болгария", "genCountry":"Болгарии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"2"}
+166;Стокгольм;{"name":"Стокгольм", "country":"Швеция", "genCountry":"Швеции", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":["В Стокгольме каждый год вручают Нобелевскую премию.", "В Стокгольме Астрид Линдгрен написала историю про Карлсона."], "complexity":"1"}
+167;Сува;{"name":"Сува", "country":"Фиджи", "genCountry":"Фиджи", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+168;Сукре;{"name":"Сукре", "country":"Боливия", "genCountry":"Боливии", "continent":"Южная Америка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+169;Сухум;{"name":"Сухум", "country":"Абхазия", "genCountry":"Абхазии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+170;Таллин;{"name":"Таллин", "country":"Эстония", "genCountry":"Эстонии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+171;Ташкент;{"name":"Ташкент", "country":"Узбекистан", "genCountry":"Узбекистана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+172;Тбилиси;{"name":"Тбилиси", "country":"Грузия", "genCountry":"Грузии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"2"}
+173;Тегеран;{"name":"Тегеран", "country":"Иран", "genCountry":"Ирана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+174;Тегусигальпа;{"name":"Тегусигальпа", "country":"Гондурас", "genCountry":"Гондураса", "continent":"Северная Америка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+175;Тирана;{"name":"Тирана", "country":"Албания", "genCountry":"Албании", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"5"}
+176;Токио;{"name":"Токио", "country":"Япония", "genCountry":"Японии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"1"}
+177;Триполи;{"name":"Триполи", "country":"Ливия", "genCountry":"Ливии", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"3"}
+178;Тунис;{"name":"Тунис", "country":"Тунис", "genCountry":"Туниса", "continent":"Африка", "duplicateName" : "true", "facts":[], "complexity":"3"}
+179;Тхимпху;{"name":"Тхимпху", "country":"Бутан", "genCountry":"Бутана", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+180;Уагадугу;{"name":"Уагадугу", "country":"Буркина-Фасо", "genCountry":"Буркина-Фасо", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+181;Улан-Батор,Улан Батор;{"name":"Улан-Батор", "country":"Монголия", "genCountry":"Монголии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"3"}
+182;Фритаун;{"name":"Фритаун", "country":"Сьерра-Леоне", "genCountry":"Сьерра-Леоне", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+183;Фунафути;{"name":"Фунафути", "country":"Тувалу", "genCountry":"Тувалу", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+184;Ханой;{"name":"Ханой", "country":"Вьетнам", "genCountry":"Вьетнама", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+185;Хараре;{"name":"Хараре", "country":"Зимбабве", "genCountry":"Зимбабве", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"5"}
+186;Хартум;{"name":"Хартум", "country":"Судан", "genCountry":"Судана", "continent":"Африка", "duplicateName" : "false", "facts":[], "complexity":"4"}
+187;Хельсинки;{"name":"Хельсинки", "country":"Финляндия", "genCountry":"Финляндии", "continent":"Евразия", "continent_part":"Европа", "duplicateName" : "false", "facts":[], "complexity":"1"}
+188;Хониара;{"name":"Хониара", "country":"Соломоновы Острова", "genCountry":"Соломоновых Островов", "continent":"Австралия и Океания", "duplicateName" : "false", "facts":[], "complexity":"5"}
+189;Цхинвал;{"name":"Цхинвал", "country":"Южная Осетия", "genCountry":"Южной Осетии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
+190;Шри-Джаяварденепура-Котте,Шри Джаяварденепура Котте;{"name":"Шри-Джаяварденепура-Котте", "country":"Шри-Ланка", "genCountry":"Шри-Ланки", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+191;Эль-Кувейт,Эль Кувейт;{"name":"Эль-Кувейт", "country":"Кувейт", "genCountry":"Кувейта", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"5"}
+192;Эр-Рияд,Эр Рияд;{"name":"Эр-Рияд", "country":"Саудовская Аравия", "genCountry":"Саудовской Аравии", "continent":"Евразия", "continent_part":"Азия", "duplicateName" : "false", "facts":[], "complexity":"4"}
