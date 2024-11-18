@@ -142,15 +142,15 @@ theme: /
         intent: /sys/aimylogic/ru/parting || toState = "/End"
         event: noMatch || toState = "/NoMatch"
 
-    # state: OnError
-    #     script:
-    #         bind("onAnyError", function($context) {
-    #             var answers = [
-    #             "Что-то пошло не так.",
-    #             "Произошла ошибка. Пожалуйста, повторите запрос позже.",
-    #             "Все сломалось. Попробуйте еще раз."
-    #         ];
-    #         var randomAnswer = answers[$reactions.random(answers.length)];
-    #         $reactions.answer(randomAnswer);
-    #     });
-    #     EndSession: 
+    state: OnError
+        script:
+            bind("onAnyError", function($context) {
+                var answers = [
+                "Что-то пошло не так.",
+                "Произошла ошибка. Пожалуйста, повторите запрос позже.",
+                "Все сломалось. Попробуйте еще раз."
+            ];
+            var randomAnswer = answers[$reactions.random(answers.length)];
+            $reactions.answer(randomAnswer);
+        });
+        EndSession: 
