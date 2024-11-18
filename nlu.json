@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "just_ai_games_test-256111891-TlU",
-    "name" : "just_ai_games_test-256111891-TlU",
+    "id" : "just_ai_games_test-1000180694-AdH",
+    "name" : "just_ai_games_test-1000180694-AdH",
     "folder" : "/platform"
   },
   "settings" : {
@@ -12,7 +12,8 @@
     "extendedSettings" : {
       "classificationAlgorithmVersion" : 1.0,
       "tokenizerEngine" : "mystem",
-      "useShared" : false
+      "useShared" : true,
+      "zflPatternsEnabled" : true
     },
     "shared" : false,
     "validation" : {
@@ -23,26 +24,114 @@
     }
   },
   "intents" : [ {
-    "path" : "/пока",
+    "path" : "/Хватит",
     "enabled" : true,
     "shared" : false,
     "phrases" : [ {
-      "text" : "пока"
+      "text" : "Не играем"
+    }, {
+      "text" : "Не хочу"
+    }, {
+      "text" : "Я устал"
+    }, {
+      "text" : "Нет"
+    }, {
+      "text" : "Хватит"
+    }, {
+      "text" : "остановись"
+    }, {
+      "text" : "стоп"
     } ],
     "classificationRules" : {
       "refs" : [ ]
     },
+    "patterns" : [ ],
     "priority" : 0
   }, {
-    "path" : "/привет",
+    "path" : "/Заново",
     "enabled" : true,
     "shared" : false,
     "phrases" : [ {
-      "text" : "привет"
+      "text" : "переиграть"
+    }, {
+      "text" : "сбрось прогресс"
+    }, {
+      "text" : "с нуля"
+    }, {
+      "text" : "Заново"
     } ],
     "classificationRules" : {
       "refs" : [ ]
     },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Начать",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Старт"
+    }, {
+      "text" : "Начать"
+    }, {
+      "text" : "Начать игру"
+    }, {
+      "text" : "Хочу игру"
+    }, {
+      "text" : "Давай играть"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/не знаю такой город",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "я не знаю эту столицу"
+    }, {
+      "text" : "забыл название"
+    }, {
+      "text" : "первый раз слышу"
+    }, {
+      "text" : "не помню столицу"
+    }, {
+      "text" : "непонятно какой ответ"
+    }, {
+      "text" : "не знаю столицу"
+    }, {
+      "text" : "сложно"
+    }, {
+      "text" : "не знаю такой город"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Продолжить",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Продолжить"
+    }, {
+      "text" : "Дальше"
+    }, {
+      "text" : "Еще"
+    }, {
+      "text" : "вернуться в игру"
+    }, {
+      "text" : "играем"
+    }, {
+      "text" : "давай сыграем"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
     "priority" : 0
   } ],
   "entities" : [ ],

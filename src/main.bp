@@ -1,0 +1,57 @@
+{
+  "positions" : [ {
+    "id" : "/Start",
+    "x" : 1070,
+    "y" : 3166
+  }, {
+    "id" : "/Hello",
+    "x" : 290,
+    "y" : 651
+  }, {
+    "id" : "/CityPattern",
+    "x" : 290,
+    "y" : 1263
+  }, {
+    "id" : "/Text",
+    "x" : 1438,
+    "y" : 3693
+  }, {
+    "id" : "/NoMatch",
+    "x" : 719,
+    "y" : 3308
+  }, {
+    "id" : "/reset",
+    "x" : 290,
+    "y" : 3166
+  }, {
+    "id" : "/AskCity",
+    "name" : "AskCity",
+    "x" : 1422,
+    "y" : 3211
+  }, {
+    "id" : "/CheckAnswer",
+    "name" : "CheckAnswer",
+    "x" : 1849,
+    "y" : 3065
+  }, {
+    "id" : "/End",
+    "name" : "End",
+    "x" : 445,
+    "y" : 3857
+  }, {
+    "id" : "/DontKnow",
+    "name" : "DontKnow",
+    "x" : 1505,
+    "y" : 3982
+  }, {
+    "id" : "/FactAndNext",
+    "name" : "FactAndNext",
+    "x" : 2216,
+    "y" : 3062
+  }, {
+    "id" : "/OnError",
+    "name" : "OnError",
+    "x" : 858,
+    "y" : 4173
+  } ]
+}

@@ -2,9 +2,98 @@
     
     <test-case>        
         <q>приветствую</q>
-        <a>Я не понял. Вы сказали: приветствую</a>
+        <a state = "/Start"/>
+        <q>Да</q>
+        <a state = "/AskCity"/>
+        <q>ляляля</q>
+        <a state = "/DontKnow"/>
+        <a state = "/FactAndNext"/>
+        <q>Да</q>
+        <a state = "/AskCity"/>
         <q>Москва</q>
-        <a>Столица: Москва</a>
+        <a state = "/CheckAnswer"/>
+        <a state = "/FactAndNext"/>
+        <q>Хватит</q>
+        <a state="/End"/>
+        <a state="/End"/>
+    </test-case>
+    
+    <test-case>        
+        <q>хай</q>
+        <a state = "/Start"/>
+        <q>не знаю</q>
+        <a state = "/AskCity"/>
+        <q>ой чето не хочу отвечать</q>
+        <a state="/End"/>
+        <a state="/End"/>
+    </test-case>
+    
+    <test-case>        
+        <q>привет</q>
+        <a state = "/Start"/>
+        <q>не</q>
+        <a state="/End"/>
+        <a state="/End"/>
+    </test-case>
+    
+    <test-case>        
+        <q>здравствуйте</q>
+        <a state = "/Start"/>
+        <q>начнем игру</q>
+        <a state = "/AskCity"/>
+        <q>хмхмхм даже не знаю может быть это ульяновск?</q>
+        <a state = "/DontKnow"/>
+        <a state = "/FactAndNext"/>
+        <q>Да</q>
+        <a state = "/AskCity"/>
+        <q>это точно москва, отвечаю</q>
+        <a state = "/CheckAnswer"/>
+        <a state = "/FactAndNext"/>
+        <q>продолжаем</q>
+        <a state = "/AskCity"/>
+        <q>блин, не помню</q>
+        <a state = "/DontKnow"/>
+        <a state = "/FactAndNext"/>
+        <q>всё, я устал, пока</q>
+        <a state="/End"/>
+        <a state="/End"/>
+    </test-case>
+    
+    <test-case>        
+        <q>хай</q>
+        <a state = "/Start"/>
+        <q>ляляля</q>
+        <a state = "/NoMatch"/>
+        <q>ляляля</q>
+        <a state="/End"/>
+        <a state="/End"/>
+    </test-case>
+    
+    <test-case>        
+        <q>добрый день</q>
+        <a state = "/Start"/>
+        <q>начнем игру</q>
+        <a state = "/AskCity"/>
+        <q>Москва, моя Москва</q>
+        <a state = "/CheckAnswer"/>
+        <a state = "/FactAndNext"/>
+        <q>продолжаем</q>
+        <a state = "/AskCity"/>
+        <q>выардвопраолпрдлокап</q>
+        <a state = "/DontKnow"/>
+        <a state = "/FactAndNext"/>
+        <q>вагрподлывапдт</q>
+        <a state = "/NoMatch"/>
+        <q>играем, играем</q>
+        <a state = "/AskCity"/>
+        <q>заново хочу сыграть</q>
+        <a state = "/reset"/>
+        <a state = "/Start"/>
+        <q>скучный ты</q>
+        <a state = "/NoMatch"/>
+        <q>скучный ты, говорю</q>
+        <a state="/End"/>
+        <a state="/End"/>
     </test-case>
     
 </test>    
