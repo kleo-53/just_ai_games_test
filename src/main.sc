@@ -66,7 +66,7 @@ theme: /
     state: NoMatch || sessionResult = "Неизвестная фраза", sessionResultColor = "#143AD1"
         a: Прошу прощения, я вас не понял. Пожалуйста, переформулируйте.
         intent: /Продолжить || toState = "/AskCity"
-        intent: /Начать || toState = "/Start"
+        intent: /Начать || toState = "/AskCity"
         intent: /Хватит || toState = "/End"
         intent: /не знаю такой город || toState = "/DontKnow"
         intent: /sys/aimylogic/ru/uncertainty || toState = "/CheckAnswer"

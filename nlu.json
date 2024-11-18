@@ -125,6 +125,8 @@
       "text" : "играем"
     }, {
       "text" : "давай сыграем"
+    }, {
+      "text" : "готов"
     } ],
     "classificationRules" : {
       "refs" : [ ]
