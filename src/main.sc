@@ -27,6 +27,7 @@ theme: /
 
     state: Start || sessionResult = "Начало игры", sessionResultColor = "#D93275"
         intent!: /sys/aimylogic/ru/hello
+        intent!: /Начать
         q!: $regex</start>
         script:
             $jsapi.startSession();
@@ -63,12 +64,12 @@ theme: /
         event: noMatch || toState = "/DontKnow"
 
     state: NoMatch || sessionResult = "Неизвестная фраза", sessionResultColor = "#143AD1"
-        a: Прошу прощения, я вас не понял. Пожалуйста, переформулируйте ваш вопрос.
+        a: Прошу прощения, я вас не понял. Пожалуйста, переформулируйте.
+        intent: /Продолжить || toState = "/AskCity"
         intent: /Начать || toState = "/Start"
         intent: /Хватит || toState = "/End"
         intent: /не знаю такой город || toState = "/DontKnow"
         intent: /sys/aimylogic/ru/uncertainty || toState = "/CheckAnswer"
-        intent: /Продолжить || toState = "/AskCity"
         intent: /sys/aimylogic/ru/parting || toState = "/End"
         event: noMatch || toState = "/End"
 
@@ -113,7 +114,7 @@ theme: /
             a: Игра завершена! Вы ответили верно на большую часть вопросов: {{ $session.correctAnswers }} из {{ $session.totalQuestions }}!
         else: 
             a: Игра завершена! Вы правильно ответили на {{$session.correctAnswers}} из {{$session.totalQuestions}} вопросов.
-        a: Спасибо за игру! Буду ждать вас снова!
+        a: Для того, чтобы начать новую игру, напишите мне приветствие!
         EndSession: 
 
     state: DontKnow || sessionResult = "Не ответили", sessionResultColor = "#3E8080"
@@ -147,7 +148,7 @@ theme: /
             bind("onAnyError", function($context) {
                 var answers = [
                 "Что-то пошло не так.",
-                "Произошла ошибка. Пожалуйста, повторите запрос позже.",
+                "Произошла ошибка. Пожалуйста, повторите позже.",
                 "Все сломалось. Попробуйте еще раз."
             ];
             var randomAnswer = answers[$reactions.random(answers.length)];

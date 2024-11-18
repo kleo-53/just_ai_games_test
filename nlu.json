@@ -77,8 +77,6 @@
       "text" : "Начать игру"
     }, {
       "text" : "Хочу игру"
-    }, {
-      "text" : "Давай играть"
     } ],
     "classificationRules" : {
       "refs" : [ ]
