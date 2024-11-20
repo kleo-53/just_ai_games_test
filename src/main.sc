@@ -7,14 +7,14 @@ require: text/text.sc
 require: common.js
     module = sys.zb-common
     
-# Для игры Назови столицу    
-# require: where/where.sc
-#     module = sys.zb-common
+# Для игры Назови столицу
+require: where/where.sc
+    module = sys.zb-common
 
-# Импорт выше не работал, пришлось добавлять напрямую 
-require: geography-ru.csv
-    name = Geography
-    var = $Geography
+# # Импорт выше не работал, пришлось добавлять напрямую 
+# require: geography-ru.csv
+#     name = Geography
+#     var = $Geography
 
 patterns:
     $Word = $entity<Geography> || converter = function ($parseTree) {
